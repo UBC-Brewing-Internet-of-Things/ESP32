@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"istream": "cpp",
+		"*.ipp": "cpp",
+		"system_error": "cpp",
+		"cstdio": "cpp",
+		"*.tcc": "cpp",
+		"typeindex": "cpp",
+		"typeinfo": "cpp"
+	},
+	"cmake.sourceDirectory": "${workspaceFolder}/Websocket_Client/src"
+}
